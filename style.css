@@ -2,9 +2,9 @@ a, h1 {
   color: red;
   font-weight: bold;
 }
-a:hover {
-color: #0eb83a; /*鼠标经过的颜色变化*/
-}
+
+a:hover{color: green;}
+
 a:active {
 color: #FFFF00; /*鼠标按下的颜色变化*/
 }
