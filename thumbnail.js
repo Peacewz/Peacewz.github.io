@@ -6,5 +6,4 @@ if (targetImage.classList.contains("small")) {
 } else {
     targetImage.classList.add("small");
 }
-
 });
