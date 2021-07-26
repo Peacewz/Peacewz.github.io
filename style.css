@@ -9,8 +9,8 @@ color: #FFFF00;
 html, 
 body{1display: flex;flex-direction: column;background:linear-gradient (91deg,#f1eefc,#9dc6ff 70%,#a5bcff)}
 main{display: flex;flex: auto；}
-aside{flex:1;background-image:url('https://img1.baidu.com/it/u=339688164,907599577&fm=26&fmt=auto&gp=0.jpg');
+aside{flex:1;background-image:url('m.jpg');
        background-position:center;
        background-size: cover;
        color:#00FFFF;border: 2px solid black;}
-article{flex:3;border: 2px solid black;background-image:url('https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/bd315c6034a85edf4d7611484a540923dc5475e7.jpg');}
+article{flex:3;border: 2px solid black;background-image:url('n.jpg');}
