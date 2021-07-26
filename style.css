@@ -7,7 +7,7 @@ a:active {
 color: #FFFF00; 
 }
 html, 
-header{display: flex;flex: 3；}
+header{flex: 3；}
 body{1display: flex;flex-direction: column;background:linear-gradient (91deg,#f1eefc,#9dc6ff 70%,#a5bcff)}
 main{display: flex;flex: auto；}
 aside{flex:1;background-image:url('m.jpg');
