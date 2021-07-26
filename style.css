@@ -9,8 +9,8 @@ color: #FFFF00;
 html, 
 body{1display: flex;flex-direction: column;background:linear-gradient (91deg,#f1eefc,#9dc6ff 70%,#a5bcff)}
 main{display: flex;flex: auto；}
-aside{flex:1;background-image:url('https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180124%2F6dbabb3523f94e7d8bcb024f6446bf34.gif&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1629880146&t=22d1289d1c9c9ee59895b11aef65683a');
+aside{flex:1;background-image:url('https://img1.baidu.com/it/u=339688164,907599577&fm=26&fmt=auto&gp=0.jpg');
        background-position:center;
        background-size: cover;
        color:#00FFFF;border: 2px solid black;}
-article{flex:3;border: 2px solid black;background-image:url('https://img1.baidu.com/it/u=339688164,907599577&fm=26&fmt=auto&gp=0.jpg');}
+article{flex:3;border: 2px solid black;background-image:url('https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/bd315c6034a85edf4d7611484a540923dc5475e7.jpg');}
